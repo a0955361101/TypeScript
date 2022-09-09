@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "雪人咖啡",
+        "price": 130,
+        "imgUrl": "/imgs/c-16.png"
+    },
+    {
+        "id": 2,
+        "name": "愛心咖啡",
+        "price": 100,
+        "imgUrl": "/imgs/c-23.png"
+    },
+    {
+        "id": 3,
+        "name": "貓咪咖啡",
+        "price": 150,
+        "imgUrl": "/imgs/c-34.png"
+    },
+    {
+        "id": 4,
+        "name": "恐龍咖啡",
+        "price": 120,
+        "imgUrl": "/imgs/c-46.png"
+    }
+]
